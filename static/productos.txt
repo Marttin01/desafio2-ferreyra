@@ -1,0 +1,11 @@
+[
+ {
+  "title": "escritorio",
+  "description": "para estudiar",
+  "price": "5000",
+  "thumbnail": "img/escritorio.png",
+  "code": "05",
+  "stock": "60",
+  "id": 5
+ }
+]

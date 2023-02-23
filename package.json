@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "desafio2-ferreyra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
