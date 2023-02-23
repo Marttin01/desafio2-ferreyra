@@ -8,5 +8,6 @@
     "start": "node ."
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "git":"https://github.com/Marttin01/desafio2-ferreyra.git"
 }
